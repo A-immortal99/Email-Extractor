@@ -20,10 +20,17 @@ Tip: If you found this script helpful, consider buying me a coffee as a token of
 Better and simpler then online email extractor as this script can handle big files easily 
 
 How to Use it :
-Download Email Extractor.exe
+
+Download Email Extractor.exe https://github.com/A-immortal99/Email-Extractor/raw/master/Email%20Extractor.exe
+
 Locate the Email Extractor.exe file and your text file containing email addresses.
+
 Just Drag and drop text files like (.txt .csv .xlsx  etc..) on to Email Extractor.exe file
+
 The script will automatically process the file and extract unique email addresses, Remove duplicated and sort them as per domain.
+
 After processing, it will generate an output file with the extracted email addresses in the filename.
+
 The script will display a summary of the source file, the extraction progress, and information about the output file.
+
 
