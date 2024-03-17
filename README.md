@@ -12,7 +12,7 @@
 Tip: If you found this script helpful, consider buying me a coffee as a token of appreciation:
 
           - BTC: 1JtGqVD9xyQzrdbPpoBB4QjGoGxqhQMmCo
-          - UDST (TRC 20): TAMLo5m9qKQpqQao1Qk4ZH3xRwkLw5Q2Vj
+          - USDT (TRC 20): TAMLo5m9qKQpqQao1Qk4ZH3xRwkLw5Q2Vj
           - ETH: 0x6e82b2bc4132050b31b0bb2dbb0cfd600ba949f7
 
 -----------------------------------------------------------------------------------------------------------------------
