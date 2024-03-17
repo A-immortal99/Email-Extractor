@@ -25,7 +25,7 @@ Download Email Extractor
 
 Locate the Email Extractor file and your text file containing email addresses.
 
-Just Drag and drop text files like (.txt .csv .xlsx  etc..) on to Email Extractor.exe file
+Just Drag and drop text files like (.txt .csv .xlsx  etc..) on to Email Extractor file
 
 The script will automatically process the file and extract unique email addresses, Remove duplicated and sort them as per domain.
 
