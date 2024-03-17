@@ -21,9 +21,9 @@ Better and simpler then online email extractor as this script can handle big fil
 
 How to Use it :
 
-Download Email Extractor.exe https://github.com/A-immortal99/Email-Extractor/raw/master/Email%20Extractor.exe
+Download Email Extractor
 
-Locate the Email Extractor.exe file and your text file containing email addresses.
+Locate the Email Extractor file and your text file containing email addresses.
 
 Just Drag and drop text files like (.txt .csv .xlsx  etc..) on to Email Extractor.exe file
 
